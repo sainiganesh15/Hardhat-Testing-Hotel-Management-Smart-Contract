@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\91887\\OneDrive\\Desktop\\Hardhat-Hardhat-Testing(HotelManagement)\\contracts\\HotelManagement.sol": {
+      "lastModificationDate": 1681455073107,
+      "contentHash": "1f51580f043b606f8f54075a64ae5ddb",
+      "sourceName": "contracts/HotelManagement.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "HotelManagement"
+      ]
+    }
+  }
+}
