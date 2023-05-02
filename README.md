@@ -1,4 +1,4 @@
-# Hardhat Testing (Lottery Smart Contract)
+# Hardhat Testing (Hotel Management Smart Contract)
 
 The contract is a **Hotel Management** smart contract that allows customers to book a room, check-in, view their rent, and checkout. The contract has an owner who can access all the functions, a receptionist who can view the rent of customers, and customers who can access specific functions.
 
